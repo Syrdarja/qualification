@@ -76,8 +76,11 @@
 
 # **4.Ресурсы**
 4.1 Локальный компьютер OS Windows
+
 4.2 Эмулятор Android Pixel 8 API 29
+
 4.3 Android Studio
+
 4.4 Allure
 
 
