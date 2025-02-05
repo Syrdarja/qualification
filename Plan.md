@@ -1,6 +1,6 @@
 # **1.Основная информация**
 
-Мобильное приложение *“Вхосписе”*.
+Мобильное приложение *“В хосписе”*.
 Приложение дает функционал по работе с новостями хосписа и включает в себя:
 информацию о новостях и функционал для работы с ними;
 тематические цитаты;
@@ -85,6 +85,9 @@
 
 # Чек-лист
 https://docs.google.com/spreadsheets/d/1yUqo9zpQNE1E51neabWAS0Bl_F4wCWw3ePCiz_2n9wA/edit?gid=0#gid=0
+
+# Тест-кейсы
+https://docs.google.com/spreadsheets/d/1b3vwAKLQpCN9dKj6OgxUEDWwHgr6VtzUbx19UdyjSdA/edit?gid=1783569371#gid=1783569371
 
 
 
