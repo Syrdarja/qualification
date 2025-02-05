@@ -83,6 +83,8 @@
 
 4.4 Allure
 
+# Чек-лист
+https://docs.google.com/spreadsheets/d/1yUqo9zpQNE1E51neabWAS0Bl_F4wCWw3ePCiz_2n9wA/edit?gid=0#gid=0
 
 
 
