@@ -115,7 +115,23 @@ https://docs.google.com/spreadsheets/d/1yUqo9zpQNE1E51neabWAS0Bl_F4wCWw3ePCiz_2n
 ### Тест-кейсы
 https://docs.google.com/spreadsheets/d/1b3vwAKLQpCN9dKj6OgxUEDWwHgr6VtzUbx19UdyjSdA/edit?gid=1783569371#gid=1783569371
 
+### Процедура запуска авто-тестов
+ https://github.com/Syrdarja/qualification/blob/main/README.md
+
+###   Allure отчеты
+
+### Сравнение результатов тестирования
+
+https://github.com/Syrdarja/qualification/blob/main/Result.md
+
+### Баг-репорт 
+
+https://github.com/Syrdarja/qualification/issues
+
+
 ### Отчет по тестированию
+
+https://github.com/Syrdarja/qualification/blob/main/Report.md
 
 # 7 Интервальная оценка
 **Подготовка тест-плана и тестового окружения:**
@@ -151,6 +167,7 @@ https://docs.google.com/spreadsheets/d/1b3vwAKLQpCN9dKj6OgxUEDWwHgr6VtzUbx19Udyj
 * Все дефекты исправлены или закрыты.
 * Достигнут необходимый процент успешно пройденных тест-кейсов.
 * Покрытие кода/функционала/требований достигло нужного уровня
+
   
 
 
